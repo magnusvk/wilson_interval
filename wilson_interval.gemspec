@@ -27,7 +27,8 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/wilson_interval.rb",
-    "spec/wilson_interval_spec.rb"
+    "spec/wilson_interval_spec.rb",
+    "wilson_interval.gemspec"
   ]
   s.homepage = "http://github.com/magnusvk/wilson_interval"
   s.licenses = ["MIT"]
